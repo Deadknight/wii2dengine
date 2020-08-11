@@ -1,0 +1,9 @@
+I:\ders\541\oyun\tools\UnitCreator\UnitCreator\obj\Debug\ResolveAssemblyReference.cache
+I:\ders\541\oyun\tools\UnitCreator\UnitCreator\obj\Debug\UnitCreator.Main.resources
+I:\ders\541\oyun\tools\UnitCreator\UnitCreator\obj\Debug\UnitCreator.Properties.Resources.resources
+I:\ders\541\oyun\tools\UnitCreator\UnitCreator\obj\Debug\UnitCreator.csproj.GenerateResource.Cache
+I:\ders\541\oyun\tools\UnitCreator\UnitCreator\bin\Debug\UnitCreator.exe
+I:\ders\541\oyun\tools\UnitCreator\UnitCreator\bin\Debug\UnitCreator.pdb
+I:\ders\541\oyun\tools\UnitCreator\UnitCreator\obj\Debug\UnitCreator.exe
+I:\ders\541\oyun\tools\UnitCreator\UnitCreator\obj\Debug\UnitCreator.pdb
+I:\ders\541\oyun\tools\UnitCreator\UnitCreator\bin\Debug\MiscUtil.dll

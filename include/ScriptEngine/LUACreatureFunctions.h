@@ -1,0 +1,6 @@
+#ifndef __LUA_CREATUREFUNCTIONS_H
+#define __LUA_CREATUREFUNCTIONS_H
+
+
+
+#endif

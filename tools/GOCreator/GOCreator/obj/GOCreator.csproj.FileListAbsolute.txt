@@ -1,0 +1,9 @@
+I:\ders\541\oyun\tools\GOCreator\GOCreator\obj\Debug\ResolveAssemblyReference.cache
+I:\ders\541\oyun\tools\GOCreator\GOCreator\obj\Debug\GOCreator.Main.resources
+I:\ders\541\oyun\tools\GOCreator\GOCreator\obj\Debug\GOCreator.Properties.Resources.resources
+I:\ders\541\oyun\tools\GOCreator\GOCreator\obj\Debug\GOCreator.csproj.GenerateResource.Cache
+I:\ders\541\oyun\tools\GOCreator\GOCreator\bin\Debug\GOCreator.exe
+I:\ders\541\oyun\tools\GOCreator\GOCreator\bin\Debug\GOCreator.pdb
+I:\ders\541\oyun\tools\GOCreator\GOCreator\obj\Debug\GOCreator.exe
+I:\ders\541\oyun\tools\GOCreator\GOCreator\obj\Debug\GOCreator.pdb
+I:\ders\541\oyun\tools\GOCreator\GOCreator\bin\Debug\MiscUtil.dll

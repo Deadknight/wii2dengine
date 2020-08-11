@@ -1,0 +1,194 @@
+Error Log started 28.01.2010 15:52:30
+
+WARNING: The path "C:\Users\Edo\Desktop\sdnew\background1.png" is not entered in a cross-platform manner.
+Use only forward slash (/) for path separators, and avoid using the following characters:  \:|*?"<>
+
+
+WARNING: The path "C:\Users\Edo\Desktop\sdnew\background1.png" is not entered in a cross-platform manner.
+Use only forward slash (/) for path separators, and avoid using the following characters:  \:|*?"<>
+
+
+WARNING: The path "C:\Users\Edo\Desktop\sdnew\background1.png" is not entered in a cross-platform manner.
+Use only forward slash (/) for path separators, and avoid using the following characters:  \:|*?"<>
+
+
+WARNING: The path "C:\Users\Edo\Desktop\sdnew\background1.png" is not entered in a cross-platform manner.
+Use only forward slash (/) for path separators, and avoid using the following characters:  \:|*?"<>
+
+
+WARNING: The path "C:\Users\Edo\Desktop\sdnew\background1.png" is not entered in a cross-platform manner.
+Use only forward slash (/) for path separators, and avoid using the following characters:  \:|*?"<>
+
+
+WARNING: The path "C:\Users\Edo\Desktop\sdnew\background1.png" is not entered in a cross-platform manner.
+Use only forward slash (/) for path separators, and avoid using the following characters:  \:|*?"<>
+
+
+WARNING: The path "C:\Users\Edo\Desktop\sdnew\background1.png" is not entered in a cross-platform manner.
+Use only forward slash (/) for path separators, and avoid using the following characters:  \:|*?"<>
+
+
+WARNING: The path "C:\Users\Edo\Desktop\sdnew\background1.png" is not entered in a cross-platform manner.
+Use only forward slash (/) for path separators, and avoid using the following characters:  \:|*?"<>
+
+
+WARNING: The path "C:\Users\Edo\Desktop\sdnew\background1.png" is not entered in a cross-platform manner.
+Use only forward slash (/) for path separators, and avoid using the following characters:  \:|*?"<>
+
+
+WARNING: The path "C:\Users\Edo\Desktop\sdnew\background1.png" is not entered in a cross-platform manner.
+Use only forward slash (/) for path separators, and avoid using the following characters:  \:|*?"<>
+
+
+WARNING: The path "C:\Users\Edo\Desktop\sdnew\background1.png" is not entered in a cross-platform manner.
+Use only forward slash (/) for path separators, and avoid using the following characters:  \:|*?"<>
+
+
+WARNING: The path "C:\Users\Edo\Desktop\sdnew\background1.png" is not entered in a cross-platform manner.
+Use only forward slash (/) for path separators, and avoid using the following characters:  \:|*?"<>
+
+
+WARNING: The path "C:\Users\Edo\Desktop\sdnew\background1.png" is not entered in a cross-platform manner.
+Use only forward slash (/) for path separators, and avoid using the following characters:  \:|*?"<>
+
+
+WARNING: The path "C:\Users\Edo\Desktop\sdnew\background1.png" is not entered in a cross-platform manner.
+Use only forward slash (/) for path separators, and avoid using the following characters:  \:|*?"<>
+
+
+WARNING: The path "C:\Users\Edo\Desktop\sdnew\background1.png" is not entered in a cross-platform manner.
+Use only forward slash (/) for path separators, and avoid using the following characters:  \:|*?"<>
+
+
+WARNING: The path "C:\Users\Edo\Desktop\sdnew\background1.png" is not entered in a cross-platform manner.
+Use only forward slash (/) for path separators, and avoid using the following characters:  \:|*?"<>
+
+
+WARNING: The path "C:\Users\Edo\Desktop\sdnew\background1.png" is not entered in a cross-platform manner.
+Use only forward slash (/) for path separators, and avoid using the following characters:  \:|*?"<>
+
+
+WARNING: The path "C:\Users\Edo\Desktop\sdnew\background1.png" is not entered in a cross-platform manner.
+Use only forward slash (/) for path separators, and avoid using the following characters:  \:|*?"<>
+
+
+WARNING: The path "C:\Users\Edo\Desktop\sdnew\background1.png" is not entered in a cross-platform manner.
+Use only forward slash (/) for path separators, and avoid using the following characters:  \:|*?"<>
+
+
+WARNING: The path "C:\Users\Edo\Desktop\sdnew\background1.png" is not entered in a cross-platform manner.
+Use only forward slash (/) for path separators, and avoid using the following characters:  \:|*?"<>
+
+
+WARNING: The path "C:\Users\Edo\Desktop\sdnew\background1.png" is not entered in a cross-platform manner.
+Use only forward slash (/) for path separators, and avoid using the following characters:  \:|*?"<>
+
+
+WARNING: The path "C:\Users\Edo\Desktop\sdnew\background2.png" is not entered in a cross-platform manner.
+Use only forward slash (/) for path separators, and avoid using the following characters:  \:|*?"<>
+
+
+WARNING: The path "C:\Users\Edo\Desktop\sdnew\background2.png" is not entered in a cross-platform manner.
+Use only forward slash (/) for path separators, and avoid using the following characters:  \:|*?"<>
+
+
+WARNING: The path "C:\Users\Edo\Desktop\sdnew\background2.png" is not entered in a cross-platform manner.
+Use only forward slash (/) for path separators, and avoid using the following characters:  \:|*?"<>
+
+
+WARNING: The path "C:\Users\Edo\Desktop\sdnew\background2.png" is not entered in a cross-platform manner.
+Use only forward slash (/) for path separators, and avoid using the following characters:  \:|*?"<>
+
+
+WARNING: The path "C:\Users\Edo\Desktop\sdnew\background2.png" is not entered in a cross-platform manner.
+Use only forward slash (/) for path separators, and avoid using the following characters:  \:|*?"<>
+
+
+WARNING: The path "C:\Users\Edo\Desktop\sdnew\background2.png" is not entered in a cross-platform manner.
+Use only forward slash (/) for path separators, and avoid using the following characters:  \:|*?"<>
+
+
+WARNING: The path "C:\Users\Edo\Desktop\sdnew\mo1.png" is not entered in a cross-platform manner.
+Use only forward slash (/) for path separators, and avoid using the following characters:  \:|*?"<>
+
+
+WARNING: The path "C:\Users\Edo\Desktop\sdnew\mo1.png" is not entered in a cross-platform manner.
+Use only forward slash (/) for path separators, and avoid using the following characters:  \:|*?"<>
+
+
+WARNING: The path "C:\Users\Edo\Desktop\sdnew\mo1.png" is not entered in a cross-platform manner.
+Use only forward slash (/) for path separators, and avoid using the following characters:  \:|*?"<>
+
+
+WARNING: The path "C:\Users\Edo\Desktop\sdnew\marco_idle.png" is not entered in a cross-platform manner.
+Use only forward slash (/) for path separators, and avoid using the following characters:  \:|*?"<>
+
+
+WARNING: The path "C:\Users\Edo\Desktop\sdnew\marco_idle.png" is not entered in a cross-platform manner.
+Use only forward slash (/) for path separators, and avoid using the following characters:  \:|*?"<>
+
+
+WARNING: The path "C:\Users\Edo\Desktop\sdnew\marco_idle.png" is not entered in a cross-platform manner.
+Use only forward slash (/) for path separators, and avoid using the following characters:  \:|*?"<>
+
+
+WARNING: The path "C:\Users\Edo\Desktop\sdnew\mo2.png" is not entered in a cross-platform manner.
+Use only forward slash (/) for path separators, and avoid using the following characters:  \:|*?"<>
+
+
+WARNING: The path "C:\Users\Edo\Desktop\sdnew\mo2.png" is not entered in a cross-platform manner.
+Use only forward slash (/) for path separators, and avoid using the following characters:  \:|*?"<>
+
+
+WARNING: The path "C:\Users\Edo\Desktop\sdnew\mo2.png" is not entered in a cross-platform manner.
+Use only forward slash (/) for path separators, and avoid using the following characters:  \:|*?"<>
+
+
+WARNING: The path "C:\Users\Edo\Desktop\sdnew\mo4.png" is not entered in a cross-platform manner.
+Use only forward slash (/) for path separators, and avoid using the following characters:  \:|*?"<>
+
+
+WARNING: The path "C:\Users\Edo\Desktop\sdnew\mo4.png" is not entered in a cross-platform manner.
+Use only forward slash (/) for path separators, and avoid using the following characters:  \:|*?"<>
+
+
+WARNING: The path "C:\Users\Edo\Desktop\sdnew\mo4.png" is not entered in a cross-platform manner.
+Use only forward slash (/) for path separators, and avoid using the following characters:  \:|*?"<>
+
+
+WARNING: The path "C:\Users\Edo\Desktop\sdnew\wall1.png" is not entered in a cross-platform manner.
+Use only forward slash (/) for path separators, and avoid using the following characters:  \:|*?"<>
+
+
+WARNING: The path "C:\Users\Edo\Desktop\sdnew\wall1.png" is not entered in a cross-platform manner.
+Use only forward slash (/) for path separators, and avoid using the following characters:  \:|*?"<>
+
+
+WARNING: The path "C:\Users\Edo\Desktop\sdnew\wall1.png" is not entered in a cross-platform manner.
+Use only forward slash (/) for path separators, and avoid using the following characters:  \:|*?"<>
+
+
+WARNING: The path "C:\Users\Edo\Desktop\sdnew\wall1.png" is not entered in a cross-platform manner.
+Use only forward slash (/) for path separators, and avoid using the following characters:  \:|*?"<>
+
+
+WARNING: The path "C:\Users\Edo\Desktop\sdnew\wall1.png" is not entered in a cross-platform manner.
+Use only forward slash (/) for path separators, and avoid using the following characters:  \:|*?"<>
+
+
+WARNING: The path "C:\Users\Edo\Desktop\sdnew\wall1.png" is not entered in a cross-platform manner.
+Use only forward slash (/) for path separators, and avoid using the following characters:  \:|*?"<>
+
+
+WARNING: The path "C:\Users\Edo\Desktop\sdnew\rock.png" is not entered in a cross-platform manner.
+Use only forward slash (/) for path separators, and avoid using the following characters:  \:|*?"<>
+
+
+WARNING: The path "C:\Users\Edo\Desktop\sdnew\rock.png" is not entered in a cross-platform manner.
+Use only forward slash (/) for path separators, and avoid using the following characters:  \:|*?"<>
+
+
+WARNING: The path "C:\Users\Edo\Desktop\sdnew\rock.png" is not entered in a cross-platform manner.
+Use only forward slash (/) for path separators, and avoid using the following characters:  \:|*?"<>
+
+

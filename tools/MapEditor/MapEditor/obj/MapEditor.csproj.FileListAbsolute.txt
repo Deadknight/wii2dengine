@@ -1,0 +1,50 @@
+C:\Documents and Settings\Edo\Desktop\ders\cg538\proje\MapEditor\MapEditor\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Edo\Desktop\ders\cg538\proje\MapEditor\MapEditor\obj\Debug\MapEditor.ImageFileView.resources
+C:\Documents and Settings\Edo\Desktop\ders\cg538\proje\MapEditor\MapEditor\obj\Debug\MapEditor.Main.resources
+C:\Documents and Settings\Edo\Desktop\ders\cg538\proje\MapEditor\MapEditor\obj\Debug\MapEditor.Properties.Resources.resources
+C:\Documents and Settings\Edo\Desktop\ders\cg538\proje\MapEditor\MapEditor\obj\Debug\MapEditor.RunForm.resources
+C:\Documents and Settings\Edo\Desktop\ders\cg538\proje\MapEditor\MapEditor\obj\Debug\MapEditor.TextureBox.resources
+C:\Documents and Settings\Edo\Desktop\ders\cg538\proje\MapEditor\MapEditor\obj\Debug\MapEditor.csproj.GenerateResource.Cache
+C:\Documents and Settings\Edo\Desktop\ders\cg538\proje\MapEditor\MapEditor\bin\Debug\MapEditor.exe
+C:\Documents and Settings\Edo\Desktop\ders\cg538\proje\MapEditor\MapEditor\bin\Debug\MapEditor.pdb
+C:\Documents and Settings\Edo\Desktop\ders\cg538\proje\MapEditor\MapEditor\bin\Debug\AgateDrawing.dll
+C:\Documents and Settings\Edo\Desktop\ders\cg538\proje\MapEditor\MapEditor\bin\Debug\AgateFMOD.dll
+C:\Documents and Settings\Edo\Desktop\ders\cg538\proje\MapEditor\MapEditor\bin\Debug\AgateLib.dll
+C:\Documents and Settings\Edo\Desktop\ders\cg538\proje\MapEditor\MapEditor\bin\Debug\AgateMDX.dll
+C:\Documents and Settings\Edo\Desktop\ders\cg538\proje\MapEditor\MapEditor\bin\Debug\AgateOTK.dll
+C:\Documents and Settings\Edo\Desktop\ders\cg538\proje\MapEditor\MapEditor\bin\Debug\OpenTK.OpenGL.dll
+C:\Documents and Settings\Edo\Desktop\ders\cg538\proje\MapEditor\MapEditor\bin\Debug\OpenTK.Platform.Windows.dll
+C:\Documents and Settings\Edo\Desktop\ders\cg538\proje\MapEditor\MapEditor\bin\Debug\OpenTK.Platform.X11.dll
+C:\Documents and Settings\Edo\Desktop\ders\cg538\proje\MapEditor\MapEditor\obj\Debug\MapEditor.exe
+C:\Documents and Settings\Edo\Desktop\ders\cg538\proje\MapEditor\MapEditor\obj\Debug\MapEditor.pdb
+C:\Documents and Settings\Edo\Desktop\ders\cg538\proje\MapEditor\MapEditor\obj\Debug\MapEditor.BoundaryForm.resources
+C:\Documents and Settings\Edo\Desktop\ders\cg538\proje\MapEditor\MapEditor\obj\Debug\MapEditor.StaticObjectBoundaryForm.resources
+I:\ders\541\oyun\tools\MapEditor\MapEditor\obj\Debug\MapEditor.exe
+I:\ders\541\oyun\tools\MapEditor\MapEditor\obj\Debug\MapEditor.pdb
+I:\ders\541\oyun\tools\MapEditor\MapEditor\bin\Debug\MapEditor.exe
+I:\ders\541\oyun\tools\MapEditor\MapEditor\bin\Debug\MapEditor.pdb
+I:\ders\541\oyun\tools\MapEditor\MapEditor\bin\Debug\AgateLib.dll
+I:\ders\541\oyun\tools\MapEditor\MapEditor\obj\Debug\ResolveAssemblyReference.cache
+I:\ders\541\oyun\tools\MapEditor\MapEditor\obj\Debug\MapEditor.BoundaryForm.resources
+I:\ders\541\oyun\tools\MapEditor\MapEditor\obj\Debug\MapEditor.ImageFileView.resources
+I:\ders\541\oyun\tools\MapEditor\MapEditor\obj\Debug\MapEditor.Main.resources
+I:\ders\541\oyun\tools\MapEditor\MapEditor\obj\Debug\MapEditor.Properties.Resources.resources
+I:\ders\541\oyun\tools\MapEditor\MapEditor\obj\Debug\MapEditor.RunForm.resources
+I:\ders\541\oyun\tools\MapEditor\MapEditor\obj\Debug\MapEditor.StaticObjectBoundaryForm.resources
+I:\ders\541\oyun\tools\MapEditor\MapEditor\obj\Debug\MapEditor.TextureBox.resources
+I:\ders\541\oyun\tools\MapEditor\MapEditor\obj\Debug\MapEditor.csproj.GenerateResource.Cache
+I:\ders\541\oyun\tools\MapEditor\MapEditor\obj\Debug\MapEditor.SoundFileView.resources
+I:\ders\541\oyun\tools\MapEditor\MapEditor\bin\Debug\Interop.WMPLib.dll
+I:\ders\541\oyun\tools\MapEditor\MapEditor\obj\Debug\Interop.WMPLib.dll
+I:\ders\541\oyun\tools\MapEditor\MapEditor\obj\Debug\MapEditor.csproj.ResolveComReference.cache
+I:\ders\541\oyun\tools\MapEditor\MapEditor\bin\Debug\MiscUtil.dll
+I:\ders\541\oyun\tools\MapEditor\MapEditor\bin\Debug\AgateDrawing.dll
+I:\ders\541\oyun\tools\MapEditor\MapEditor\bin\Debug\AgateFMOD.dll
+I:\ders\541\oyun\tools\MapEditor\MapEditor\bin\Debug\AgateLib.WinForms.dll
+I:\ders\541\oyun\tools\MapEditor\MapEditor\bin\Debug\AgateMDX.dll
+I:\ders\541\oyun\tools\MapEditor\MapEditor\bin\Debug\AgateOTK.dll
+I:\ders\541\oyun\tools\MapEditor\MapEditor\bin\Debug\AgateSDL.dll
+I:\ders\541\oyun\tools\MapEditor\MapEditor\bin\Debug\OpenTK.dll
+I:\ders\541\oyun\tools\MapEditor\MapEditor\bin\Debug\OpenTK.Utilities.dll
+I:\ders\541\oyun\tools\MapEditor\MapEditor\bin\Debug\Tao.Sdl.dll
+I:\ders\541\oyun\tools\MapEditor\MapEditor\obj\Debug\MapEditor.EventView.resources
